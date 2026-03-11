@@ -1,0 +1,25 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Publish
+publish/
+
+# Archives
+*.zip
