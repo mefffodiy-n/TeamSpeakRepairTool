@@ -1,3 +1,7 @@
+![Platform](https://img.shields.io/badge/platform-Windows-blue)
+![.NET](https://img.shields.io/badge/.NET-8-purple)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # TeamSpeak Repair Tool
 
 Portable Windows utility for fixing broken **TeamSpeak 3 link handling** after installing or removing newer TeamSpeak versions (5/6).
